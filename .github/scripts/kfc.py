@@ -1,3 +1,3 @@
 print('안녕하세요')
 print('ㅎㅇ')
-prnit('ㅂㅂ')
+print('ㅂㅂ')
